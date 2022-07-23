@@ -10,6 +10,7 @@ async function login (req: Request, res: Response) {
     let results = await queryDB(sql)
     commonRes(res, { results })
 }
-export {
+
+export default {
   login
 }

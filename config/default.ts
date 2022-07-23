@@ -1,9 +1,9 @@
 export default {
   port: 5555,
   db: {
-    host: "localhost",
+    host: "loaclhost",
     user: "root",
-    password: "cy641578178",
-    database: "emergency-rewcue"
+    password: "*********",
+    database: "test"
   }
 }
