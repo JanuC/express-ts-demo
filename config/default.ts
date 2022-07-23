@@ -1,7 +1,7 @@
 export default {
   port: 5555,
   db: {
-    host: "loaclhost",
+    host: "localhost",
     user: "root",
     password: "*********",
     database: "test"
